@@ -1,6 +1,5 @@
-#Determines how humans and cyborgs differ from each other in terms of:
-#The speed of recovering from wounds, emotional intelligence (EQ) and words per minute (WPM) reading speed
-
+#Using Unsupervised Learning - Clustering - to determine how Humans and Cyborgs differ from each other in terms of:
+#The speed of recovering from wounds, emotional intelligence (EQ) and words per minute (WPM) reading speed.
 
 import codecademylib3_seaborn
 import matplotlib.pyplot as plt
