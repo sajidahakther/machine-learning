@@ -1,4 +1,4 @@
-#To analyze what citizens are saying, built a Naive Bayes classifier that predicts whether an intercepted text is positive/negative
+#To analyse what 'citizens' are saying, built a Naive Bayes classifier that predicts whether an intercepted text is positive/negative
 #Using supervised learning, based on the frequency that a word is used in a good training example or a bad one.
 
 from texts import text_counter, text_training
